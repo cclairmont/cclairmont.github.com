@@ -8,10 +8,6 @@ h1 {
     font-size: 32px;
 }
 
-dd {
-    width: 50%;
-}
-
 .resume_header {
     text-align: center;
 }
@@ -23,4 +19,3 @@ h2 {
 dt {
     font-weight: bold;
 }
-
