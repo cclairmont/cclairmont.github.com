@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Resume</title>
+<link rel="stylesheet" href="homepage.css" />
+</head>
+
+<body>
+<h1><div class="resume_header">Connor Clairmont</div></h1>
+<h2>Education</h2>
+<dl>
+<dt>Tufts University</dt>
+<dd>B.A. Biochemistry &amp Computer Science (In Progress)<br/>
+    2010 - Present
+</dd>
+<h2>Coursework</h2>
+<dt>Biochemistry</dt>
+<dd>General Chemistry <br/>
+    Introductory Biology <br/>
+    General Genetics <br/>
+    Organic Chemistry <br/>
+    Physical Chemistry <br/>
+    Analytical Chemistry <br/>
+    Molecular Biology <br/>
+    Biochemistry <br/>
+</dd> <br/>
+<dt>Computer Science</dt>
+<dd>Introduction to Computer Science <br/>
+    Data Structures <br/>
+    Discrete Mathematics <br/>
+    Machine Architecture &amp Assembly Language Programming <br/>
+    Web Programming <br/>
+    Programming Languages <br/>
+</dd>
+<h2>Professional Experience</h2>
+<dt>Summer Research Student: Yale University School of Medicine</dt>
+<dd>Summer 2011 &amp 2012 in the lab of Dr. Joann Sweasy<dd/>
+<br/>
+<dd>Worked on several projects related to base excision repair of damaged <br/>
+    DNA in mammalian cells, including charactarization of mice with a germ <br/>
+    line mutation of DNA polymerase beta.  Gained extensive experience <br/>
+    with flourescence microscopy, PCR and gel electrophoresis.  Gained some<br/>
+    experience with protein purification, western blotting, mammalian <br/>
+    tissue culture and bacterial cloning. <br/>
+</dd><br/>
+<dd>Click <a href="http://www.ncbi.nlm.nih.gov/pubmed/22493258">here</a> to
+    see the paper we published about the Y265C germline mutation in mice </dd>
+<br/>
+<dt>Research Student: Tufts University</dt>
+<dd>Fall 2012 - Present in the lab of Dr. Mitch McVey</dd><br/>
+<dd>Working on creating and charactarizing Rev1 mutations in the model <br/>
+    organism, Drosophila melanogaster. Rev1 is a translesion polymerase, <br/>
+    although recent work has shown it to play an important non-catalytic <br/>
+    role in homologous recombination repair of double strand DNA breaks <br/>
+    which we are investigating further. </dd>
+<br/>
+
+
+<h2>Skills</h2>
+<dt>Extensive experience with standard molecular biology techniques</dt>
+<dd>Including: PCR, gel electrophoresis, bacterial cloning (traditional <br/>
+    cloning, TOPO cloning, recombineering, and Gibson assembly) </dd><br/>
+<dt>Some experience with biochemical techniques</dt>
+<dd>Including: Protein purification and western blotting</dd><br/>
+<dt>Some experience with mammalian tissue culture</dt><br/>
+<dt>Some expeience using Drosophila melanogaster a model organism</dt>
+<dd>Including: Setting up crosses, identifying common phenotypic markers, <br/>
+    Imprecise P-element excisions, Gene targeting </dd><br/>
+<dt>Computer skills</dt>
+<dd>Proficiency in C and C++, Proficiency with the Microsoft Office Suite <br/>
+    Proficiency with Unix-like systems </dd><br/>
+</body>
+</html>
+
+
+
+   
+
+
