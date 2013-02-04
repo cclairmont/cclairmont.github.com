@@ -19,3 +19,7 @@ h2 {
 dt {
     font-weight: bold;
 }
+
+dd {
+    margin-left: 0;
+}
